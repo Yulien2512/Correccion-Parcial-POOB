@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Doctor
+comment1.params=
+comment1.target=java.lang.String\ getSpecialty()
+comment2.params=date\ timeSlot
+comment2.target=boolean\ isAvailable(java.time.LocalDate,\ int)
+comment3.params=
+comment3.target=Office\ getOffice()
+numComments=4

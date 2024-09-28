@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Appointment
+comment1.params=d\ o\ date\ timeSlot
+comment1.target=Appointment(Doctor,\ Office,\ java.time.LocalDate,\ int)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hospital
+comment1.params=p\ d\ date\ timeSlot
+comment1.target=void\ generateAppointment(Patient,\ Doctor,\ java.time.LocalDate,\ int)
+comment2.params=p\ requestedSpeciality\ date\ timeSlot
+comment2.target=void\ createAppoinment(Patient,\ java.lang.String,\ java.time.LocalDate,\ int)
+numComments=3

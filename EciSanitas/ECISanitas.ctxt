@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ECISanitas
+comment1.params=patientId
+comment1.target=Patient\ getPatient(java.lang.String)
+comment2.params=hospitalName
+comment2.target=Hospital\ getHospital(java.lang.String)
+comment3.params=patientId\ hospitalName\ requestedSpeciality\ date\ timeSlot
+comment3.target=void\ scheduleAppointment(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.time.LocalDate,\ int)
+numComments=4
